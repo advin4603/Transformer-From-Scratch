@@ -1,5 +1,5 @@
-# ANLP Assignment 3
-- Ayan Datta 2021114017
+# Transformer From Scratch
+Implementation of the original Attention is all you need paper in PyTorch using Byte Pair Encodings.
 
 # Requirements
 - python >= 3.10
